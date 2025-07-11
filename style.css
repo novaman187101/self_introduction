@@ -60,11 +60,18 @@ body {
     font-size: 2.5rem;
     font-weight: 700;
     color: #333;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     background: linear-gradient(135deg, #667eea, #764ba2);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+}
+
+.birth-year {
+    font-size: 1rem;
+    color: #888;
+    margin-bottom: 10px;
+    font-weight: 400;
 }
 
 .title {
